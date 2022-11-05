@@ -80,4 +80,4 @@ class TestVarasto(unittest.TestCase):
     def test_printtaus_toimii(self):
 
         self.assertAlmostEqual(str(self.varasto), f"saldo = {0}, vielä tilaa {10}")
-    
+    #testi
